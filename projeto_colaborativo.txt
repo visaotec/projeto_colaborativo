@@ -1,5 +1,5 @@
 
-Comandos básicos do git
+Comandos básicos do git 2023
 git init
 git config user.name 
 git config user.email 
