@@ -1,0 +1,11 @@
+git init
+git config user.name 
+git config user.email 
+git add -A
+git commit -m "Primeiro commit"
+Mudar de Master para Main
+git branch -m master main
+criar nova branch
+git checkout -b novo nome
+para excluir uma branch
+git branch -d
