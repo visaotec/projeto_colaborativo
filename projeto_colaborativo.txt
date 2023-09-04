@@ -11,3 +11,4 @@ criar nova branch
 git checkout -b novo nome
 para excluir uma branch
 git branch -d
+git pull para atualizar
